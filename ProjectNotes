@@ -1,0 +1,29 @@
+TO DO OR THINK ABOUT DOING...
+
+***** UPDATES TO BUILD.XML *****
+Update to build.xml:
+
+Here is a small clean up item. I have separated my tests from the application code like this:
+
+├── src
+│   ├── main
+│   │   ├── java
+|   |── test
+│   │   ├── java
+
+so I need to update the build.xml?
+
+***** Possible ideas to try out & improve project *****
+
+- Enhance the UI to show more than one symbol at a time. The use of JList or JTable might be useful.
+Use an Add button to prompt the user for additional symbols
+
+- Enhance the UI to label the information being displayed
+
+- Automatically save stock symbols so when the app starts it automatically displays previous entries.
+The JDK's preferences class might be handy here.
+
+- History
+Show the stocks hi and low prices for a given period of time.
+That period of time can be pre-set like 1 day , 1 week, 6 months and 1 year
+
