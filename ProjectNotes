@@ -24,6 +24,5 @@ Use an Add button to prompt the user for additional symbols
 The JDK's preferences class might be handy here.
 
 - History
-Show the stocks hi and low prices for a given period of time.
-That period of time can be pre-set like 1 day , 1 week, 6 months and 1 year
+Show the stocks hi and low prices for a given period of time.   -- DONE (I did 52 weeks)
 
