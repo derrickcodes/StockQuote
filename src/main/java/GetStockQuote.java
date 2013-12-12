@@ -1,6 +1,6 @@
 package main.java;
 
-import org.apache.commons.io.IOUtils; // commons-io-2.4.jar file in lib supplies this
+import org.apache.commons.io.IOUtils; // commons-io-2.4.jar file in lib/ supplies this
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.StringWriter;
