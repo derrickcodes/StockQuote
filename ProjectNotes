@@ -1,3 +1,5 @@
+
+
 TO DO OR THINK ABOUT DOING...
 
 ***** UPDATES TO BUILD.XML *****
@@ -24,5 +26,5 @@ Use an Add button to prompt the user for additional symbols
 The JDK's preferences class might be handy here.
 
 - History
-Show the stocks hi and low prices for a given period of time.   -- DONE (I did 52 weeks)
+12/11/2013 Show the stocks hi and low prices for a given period of time. -- DONE (I did 52 weeks)
 

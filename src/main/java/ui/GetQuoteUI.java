@@ -77,7 +77,7 @@ public class GetQuoteUI extends JFrame {
 
         /**
          * Create text field for output of results
-         * Place outputField into textpanel
+         * Place outputField into textPanel
          */
         final JTextField outputField = new JTextField(25);
         outputField.setLocation(110, 0);
